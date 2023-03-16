@@ -7,7 +7,7 @@ the app will alert you when your eggs is done the way you want, you will have th
 ## how to run it:
 * install xcode
 * open EggTimer.xcodeproj in your xcode
-* run it wither on your physical device or on your emulator
+* run it either on your physical device or on your emulator
 
 ## example:
 
